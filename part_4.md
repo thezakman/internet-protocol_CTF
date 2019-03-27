@@ -139,9 +139,12 @@ STRING:
 
 ```
 
+
 <details>
-  <summary>Spoiler warning</summary>
- ```
+  <summary>[!] Spoiler warning</summary>
+  
+  
+  ```
 (1) kPo/ZbmLSA146aeh 
 (2) TS6ksqhzt7ZvrUqm
 (3) Sgbt+inVGiMo4418
@@ -159,7 +162,8 @@ KEY: nothingiseverything
 
 FLAG: spellware777
 
-
+Now Join the channel with the password to the get the goodies :)
 /join #solved spellware777
+
 ```
 </details>
