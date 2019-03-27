@@ -74,4 +74,51 @@ TAG:Int21
 
 
 
+<killernat> pay attention to the tip about monalisa (BBS) it will lead you to the tool you need to find the last part
+<killernat> and with that i need to sleep
+<killernat> by the way the tool borks on both files
+
+
+[BBS]
+
+1#
+Send me an email to masterbootrecord@protonmail.com once you have found the code word and i'll give you the prize.
+
+The first part of the string is on the Gopher server.
+Good luck!
+
+MASTER BOOT RECORD
+Heavy Metal is not dead. It was just not evenly synthesized.
+
+
+23#
+Hello dear Keygen,
+Can you send me the code please?
+Thank you
+Best Regards,
+CodeError0
+
+#24
+Wrong server.
+The Keygen
+
+27#
+Saving you some brain damage
+http://80.211.167.123/mbr.png.txt
+
+#31
+Some Hints for FTP Files.
+Hint1) Beware the cats. They can contain malware.
+Hint2) Mona Lisa knows the solution.
+Hint3) Don't Call that phone number LOL
+Hint4) Beware of red herrings!
+
+#33
+
+Don't forget to check the Voting boot on V and cast your vote or add some new questions. ;)
+
+STRING: 
+(1/4) GOPHER Server
+
+
 ```
