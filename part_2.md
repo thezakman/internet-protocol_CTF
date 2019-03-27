@@ -1,5 +1,7 @@
                                                               
 ```
+# Part - 2 (Nmap + Gopher)
+
   ___ _  _ _____ ___ ___ _  _ ___ _____   ___ ___  ___ _____ ___   ___ ___  _    
  |_ _| \| |_   _| __| _ \ \| | __|_   _| | _ \ _ \/ _ \_   _/ _ \ / __/ _ \| |   
   | || .` | | | | _||   / .` | _|  | |   |  _/   / (_) || || (_) | (_| (_) | |__ 
@@ -36,6 +38,7 @@ TIME TO HACK :)
 |------,-',--'--,'---'---'---'---'---'---'-,-'---',--,------|
 | ctrl |  | alt |                          | alt  |  | ctrl |
 '------'  '-----'--------------------------'------'  '------'
+```
 
 root@kali:~# nmap -sV --script=banner 80.211.167.123
 Starting Nmap 7.70 ( https://nmap.org ) at 2019-03-26 19:43 EDT
@@ -146,11 +149,11 @@ SF:col\.</a></p>\r\n\x20\x20</body>\r\n</html>\r\n")%r(GenericLines,59,"Ii
 SF:mage\.png\t/image\.png\t80\.211\.167\.123\t70\r\n0welcome\.txt\t/welcom
 SF:e\.txt\t80\.211\.167\.123\t70\r\n\.\r\n");
 Service Info: Host: irc.mbr.local; OS: Windows; CPE: cpe:/o:microsoft:windows
+```
 
 
 
-
-
+```
 https://en.wikipedia.org/wiki/Gopher_(protocol)
 
 Because of the simplicity of the Gopher protocol, tools such as netcat make it possible to download Gopher content easily from the command line:
@@ -159,8 +162,9 @@ echo jacks/jack.exe | nc gopher.example.org 70 > jack.exe
 
 echo /welcome.txt | nc 80.211.167.123 70 > welcome.txt
 echo /image.png | nc 80.211.167.123 70 > image.png
+```
 
-
+```
 binary_extract.png
 
 
@@ -201,8 +205,8 @@ HEX TO DEC:
 
 DEC TO ASCII:
 
-kPo/ZbmLSA146aeh
-
+FLAG: kPo/ZbmLSA146aeh
+```
 
 
 
