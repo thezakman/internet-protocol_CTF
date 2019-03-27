@@ -1,6 +1,6 @@
 ```                                                               
 
-                                                               
+ # PART - 3 (E-mail)                                                              
 
   ___ _  _ _____ ___ ___ _  _ ___ _____   ___ ___  ___ _____ ___   ___ ___  _    
  |_ _| \| |_   _| __| _ \ \| | __|_   _| | _ \ _ \/ _ \_   _/ _ \ / __/ _ \| |   
@@ -9,35 +9,8 @@
                                                                 
                                                                  DATE: 26-03-2019
                                                                  @TheZakMan
-
  [ URL: http://80.211.167.123/ ]
 
-
-
-MBR SERVER STATUS
-
-21/tcp	FTP	ONLINE
-23/tcp	TELNET/BBS	ONLINE
-25/tcp	SMTP	ONLINE
-70/tcp	GOPHER	ONLINE
-80/tcp	HTTP	ONLINE
-110/tcp	POP3	ONLINE
-6667/tcp	IRC	ONLINE
-
-
-TIME TO HACK :)
-
-,---,---,---,---,---,---,---,---,---,---,---,---,---,-------,
-| ~ | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | [ | ] | <-    |
-|---'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-----|
-| ->| | " | , | . | P | Y | F | G | C | R | L | / | = |  \  |
-|-----',--',--',--',--',--',--',--',--',--',--',--',--'-----|
-| Caps | A | O | E | U | I | D | H | T | N | S | - |  Enter |
-|------'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'--------|
-|        | ; | Q | J | K | X | B | M | W | V | Z |          |
-|------,-',--'--,'---'---'---'---'---'---'-,-'---',--,------|
-| ctrl |  | alt |                          | alt  |  | ctrl |
-'------'  '-----'--------------------------'------'  '------'
 
 root@kali:~# nmap -sV --script=banner 80.211.167.123
 Starting Nmap 7.70 ( https://nmap.org ) at 2019-03-26 19:43 EDT
@@ -148,10 +121,10 @@ SF:col\.</a></p>\r\n\x20\x20</body>\r\n</html>\r\n")%r(GenericLines,59,"Ii
 SF:mage\.png\t/image\.png\t80\.211\.167\.123\t70\r\n0welcome\.txt\t/welcom
 SF:e\.txt\t80\.211\.167\.123\t70\r\n\.\r\n");
 Service Info: Host: irc.mbr.local; OS: Windows; CPE: cpe:/o:microsoft:windows
+```
 
 
-
-
+```
 [POP3]
 nc 80.211.167.123 110
 +OK 
@@ -161,8 +134,9 @@ Welcome to the pop3 server.  You can check your inbox at user@mail.local
 
 user@mail.local
 SpreadTheCode1337
+```
 
-
+```
 telnet 80.211.167.123 110
 
 USER user@mail.local
@@ -232,9 +206,6 @@ LIST
 59 1517
 60 1516
 61 1516
-
-
-
 
 
 RETR 13
@@ -324,30 +295,31 @@ Auto-Submitted: auto-replied
 X-hMailServer-LoopCount: 1
 
 01100110 00110010 00110100 00111001 01100010 01100010 01100111 01101001 01110000 01101000 01100010 01010011 01101011 01110110 01110111 01010001 01001010 01101010 01011000 01100011 01110000 00110010 01101101 01110110 01000110 01101011 01011001 01101110 01110010 01010100 00110101 01010111 01100101 01101110 01101010 01110110 01111000 01110101 01010100 01010100 01101100 01010100 01101011 00111101
+```
 
-
+```
 BIN to ASCII:
 f249bbgiphbSkvwQJjXcp2mvFkYnrT5WenjvxuTTlTk=
 
 
-
-
 Subject: 53 68 61 72 70 65 6e 69 6e 67 54 68 65 42 6c 61 64 65
+
+HEX TO ASCII:
 5368617270656e696e67546865426c616465
 SharpeningTheBlade
+```
 
-
-
+```
 https://aesencryption.net/
 MSG: f249bbgiphbSkvwQJjXcp2mvFkYnrT5WenjvxuTTlTk=
 KEY: SharpeningTheBlade
 
-DEC: Sgbt+inVGiMo4418
-
-
-
-
+FLAG: Sgbt+inVGiMo4418
 ```
+
+
+
+
 
 
 
