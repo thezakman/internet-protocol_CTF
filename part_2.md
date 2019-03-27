@@ -203,12 +203,23 @@ BIN TO HEX:
 HEX TO DEC:
 107 080 111 047 090 098 109 076 083 065 049 052 054 097 101 104
 
-DEC TO ASCII:
+```
 
+<details>
+  <summary>[!] Spoiler warning</summary>
+  
+
+  ```
+  _____ _             
+ |  ___| | __ _  __ _ 
+ | |_  | |/ _` |/ _` |
+ |  _| | | (_| | (_| |
+ |_|   |_|\__,_|\__, |
+                |___/ 
+DEC TO ASCII:                
 FLAG: kPo/ZbmLSA146aeh
-```
+  ```
+</details>
 
 
 
-
-```
