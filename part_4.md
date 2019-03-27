@@ -67,6 +67,11 @@ ftp> dir
 
 
 
+$ zsteg -E b1,rgb,msb,XY www.bmp | strings | rev 
+pass.txt  nothingiseverything
+TAG:Int21
+
+
 
 
 ```
