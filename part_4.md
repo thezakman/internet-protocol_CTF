@@ -65,8 +65,8 @@ ftp> dir
 226 Transfer complete.
 
 
-
-
+```
+```
 [BBS]
 
 1#
@@ -104,9 +104,9 @@ Hint4) Beware of red herrings!
 #33
 
 Don't forget to check the Voting boot on V and cast your vote or add some new questions. ;)
+```
 
-
-
+```
 https://xiao-steganography.softonic.com.br/
 https://download.cnet.com/g00/Xiao-Steganography/
 
@@ -127,21 +127,21 @@ DEC TO ASCII
 
 RESULT:
 TS6ksqhzt7ZvrUqm
+```
 
 
 
-
-
+```
 Connecting to IRC on the /motd we got:
 
 * - irc.mbr.local Message of the Day - 
 * - 27/3/2019 16:40
 * - Welcome to the Internet Relay Chat Server!!
 * - This is the last part of the string: KLBioykc7vK8rEso
+```
 
 
-
-
+```
 STRING: 
 (1/4) GOPHER Server
 (2/4) modem.wav Xio Stego
