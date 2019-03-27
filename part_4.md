@@ -1,6 +1,6 @@
                                                               
 ```
-# Part - 4 (FTP + IRC)
+# Part - 4 (FTP + BBS + IRC)
   ___ _  _ _____ ___ ___ _  _ ___ _____   ___ ___  ___ _____ ___   ___ ___  _    
  |_ _| \| |_   _| __| _ \ \| | __|_   _| | _ \ _ \/ _ \_   _/ _ \ / __/ _ \| |   
   | || .` | | | | _||   / .` | _|  | |   |  _/   / (_) || || (_) | (_| (_) | |__ 
@@ -41,7 +41,10 @@ ftp> dir
 
 ```
 ```
-[BBS]
+ __ ____  ____  ___ __ 
+|  (  _ \(  _ \/ __)  |
+|   ) _ < ) _ <\__ \  |
+|__(____/(____/(___/__|
 
 1#
 Send me an email to masterbootrecord@protonmail.com once you have found the code word and i'll give you the prize.
