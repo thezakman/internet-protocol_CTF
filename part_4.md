@@ -67,18 +67,6 @@ ftp> dir
 
 
 
-$ zsteg -E b1,rgb,msb,XY www.bmp | strings | rev 
-pass.txt  nothingiseverything
-TAG:Int21
-
-
-
-
-<killernat> pay attention to the tip about monalisa (BBS) it will lead you to the tool you need to find the last part
-<killernat> and with that i need to sleep
-<killernat> by the way the tool borks on both files
-
-
 [BBS]
 
 1#
@@ -117,8 +105,49 @@ Hint4) Beware of red herrings!
 
 Don't forget to check the Voting boot on V and cast your vote or add some new questions. ;)
 
+
+
+https://xiao-steganography.softonic.com.br/
+https://download.cnet.com/g00/Xiao-Steganography/
+
+
+Extracted 2 files:
+modem.wav.txt & www.bmp.txt
+
+cat www.bmp.txt == nothingiseverything
+
+
+cat modem.wav.txt
+
+HEX TO DEC
+303834203038332030353420313037203131352031313320313034203132322031313620303535203039302031313820313134203038352031313320313039
+
+DEC TO ASCII
+084083054107115113104122116055090118114085113109
+
+RESULT:
+TS6ksqhzt7ZvrUqm
+
+
+
+
+
+Connecting to IRC on the /motd we got:
+
+* - irc.mbr.local Message of the Day - 
+* - 27/3/2019 16:40
+* - Welcome to the Internet Relay Chat Server!!
+* - This is the last part of the string: KLBioykc7vK8rEso
+
+
+
+
 STRING: 
 (1/4) GOPHER Server
+(2/4) modem.wav Xio Stego
+(3/4) Email
+(4/4) IRC
 
 
+TS6ksqhzt7ZvrUqm Sgbt+inVGiMo4418 KLBioykc7vK8rEso
 ```
