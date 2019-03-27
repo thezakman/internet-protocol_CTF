@@ -122,13 +122,43 @@ Connecting to IRC on the /motd we got:
 ```
 
 
+
+
 ```
+
+ ____ ____ ____ ____ 
+||F |||l |||a |||g ||
+||__|||__|||__|||__||
+|/__\|/__\|/__\|/__\|
+
 STRING: 
 (1/4) GOPHER Server
 (2/4) modem.wav Xio Stego
 (3/4) Email
 (4/4) IRC
 
+```
 
-TS6ksqhzt7ZvrUqm Sgbt+inVGiMo4418 KLBioykc7vK8rEso
+<details>
+  <summary>Spoiler warning</summary>
+ ```
+(1) kPo/ZbmLSA146aeh 
+(2) TS6ksqhzt7ZvrUqm
+(3) Sgbt+inVGiMo4418
+(4) KLBioykc7vK8rEso
+</details>
+
+
+https://aesencryption.net
+
+MSG: kPo/ZbmLSA146aehTS6ksqhzt7ZvrUqmSgbt+inVGiMo4418KLBioykc7vK8rEso
+KEY: nothingiseverything
+
+
+115 112 101 108 108 119 097 114 101 055 055 055
+
+FLAG: spellware777
+
+
+/join #solved spellware777
 ```
