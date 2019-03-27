@@ -309,13 +309,31 @@ HEX TO ASCII:
 SharpeningTheBlade
 ```
 
-```
+
+
+<details>
+  <summary>[!] Spoiler warning</summary>
+  
+
+  ```
+  _____ _             
+ |  ___| | __ _  __ _ 
+ | |_  | |/ _` |/ _` |
+ |  _| | | (_| | (_| |
+ |_|   |_|\__,_|\__, |
+                |___/ 
+		
 https://aesencryption.net/
 MSG: f249bbgiphbSkvwQJjXcp2mvFkYnrT5WenjvxuTTlTk=
 KEY: SharpeningTheBlade
 
 FLAG: Sgbt+inVGiMo4418
+  ```
+</details>
+
+
 ```
+
 
 
 
