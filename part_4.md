@@ -146,7 +146,7 @@ STRING:
 (2) TS6ksqhzt7ZvrUqm
 (3) Sgbt+inVGiMo4418
 (4) KLBioykc7vK8rEso
-</details>
+
 
 
 https://aesencryption.net
@@ -162,3 +162,4 @@ FLAG: spellware777
 
 /join #solved spellware777
 ```
+</details>
