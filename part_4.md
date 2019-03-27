@@ -126,11 +126,6 @@ Connecting to IRC on the /motd we got:
 
 ```
 
- ____ ____ ____ ____ 
-||F |||l |||a |||g ||
-||__|||__|||__|||__||
-|/__\|/__\|/__\|/__\|
-
 STRING: 
 (1/4) GOPHER Server
 (2/4) modem.wav Xio Stego
@@ -145,6 +140,12 @@ STRING:
   
   
   ```
+  
+ ____ ____ ____ ____ 
+||F |||l |||a |||g ||
+||__|||__|||__|||__||
+|/__\|/__\|/__\|/__\|
+
 (1) kPo/ZbmLSA146aeh 
 (2) TS6ksqhzt7ZvrUqm
 (3) Sgbt+inVGiMo4418
