@@ -23,6 +23,10 @@ PORT     STATE SERVICE VERSION
 ```
 
 ```
+┌─╔═╗╔╦╗╔═╗─┐
+│ ╠╣  ║ ╠═╝ │
+└─╚   ╩ ╩  ─┘
+
 ftp> open 80.211.167.123
 Connected to 80.211.167.123.
 220 
