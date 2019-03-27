@@ -39,7 +39,7 @@ TIME TO HACK :)
 | ctrl |  | alt |                          | alt  |  | ctrl |
 '------'  '-----'--------------------------'------'  '------'
 ```
-
+```
 root@kali:~# nmap -sV --script=banner 80.211.167.123
 Starting Nmap 7.70 ( https://nmap.org ) at 2019-03-26 19:43 EDT
 Nmap scan report for host123-167-211-80.serverdedicati.aruba.it (80.211.167.123)
